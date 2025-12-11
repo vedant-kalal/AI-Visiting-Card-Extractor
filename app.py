@@ -684,7 +684,7 @@ with st.sidebar:
 
     # Status Text (Small)
     if not gpu_available:
-        st.caption("⚠️ Cloud GPU unavailable")
+        st.caption("⚠️ Cloud GPU unavailable",help = "StreamLit Cloud does not support GPU acceleration, To use GPU acceleration clone this repository in your local machine and run it there.")
     else:
         st.caption("✅ NVIDIA Enabled")
 
