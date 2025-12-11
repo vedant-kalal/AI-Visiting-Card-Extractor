@@ -60,7 +60,7 @@ To run the AI Business Card Extractor, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vedantkalal/AI-VISITING-CARD-EXTRACTOR.git
+   git clone https://github.com/vedant-kalal/AI-VISITING-CARD-EXTRACTOR.git
    ```
 2. Navigate to the project directory:
    ```bash
